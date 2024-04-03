@@ -19,5 +19,4 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores around
 The data was analyzed using a relational database management system and PostgreSQL.
 
 ## Visualizations
-Visualizations: Check out the [Tableau Public dashboard](https://public.tableau.com/app/profile/sarah.edens/viz/Task2_9Story_16932001907120/Story?publish=yes) for interactive insights.
-
+Check out the [Tableau Public dashboard](https://public.tableau.com/app/profile/sarah.edens/viz/Task2_9Story_16932001907120/Story?publish=yes) for interactive insights.
