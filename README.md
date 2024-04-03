@@ -14,8 +14,7 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores around
 - Do sales figures vary between geographic regions?
 
 ## Data
-**Rockbuster Data Set** - This dataset was created by CareerFoundry for use in this analysis. The data set includes information on stores, staff, inventory, film categories, film names, film language, actors, customers, rental history, payment history, and addresses for stores, staff, and customers.
-
+**Rockbuster Data Set** - The dataset includes information on Rockbuster’s film inventory, customers, and transactions, loaded into a PostgreSQL database. It's structured to reflect real-world business scenarios and relationships between different data tables.
 ## Tools
 The data was analyzed using a relational database management system and PostgreSQL.
 
